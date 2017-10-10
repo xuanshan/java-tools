@@ -3,17 +3,6 @@ package com.me.common.util;
 import java.lang.reflect.Array;
 import java.util.*;
 
-/*
-*  Copyright : Abloomy Technologies , Inc .
-*
-*  Description : 
-*
-*  Author : Zongxin.Mao
-*
-* Created : 2017-02-08
-*
-* Versions : 1.0
-*/
 public class ClassUtils {
 
     public static final String ARRAY_SUFFIX = "[]";

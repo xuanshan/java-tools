@@ -8,4 +8,7 @@ package com.me.common;
  * Desc      : Created by IDEA.
  */
 public class Application {
+    public static void main(String[] args) {
+
+    }
 }
