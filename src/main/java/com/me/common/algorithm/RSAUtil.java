@@ -1,4 +1,4 @@
-package com.me.common.rsa;
+package com.me.common.algorithm;
 
 import com.me.common.util.Base64Utils;
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
